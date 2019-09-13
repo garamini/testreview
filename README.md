@@ -1,4 +1,2 @@
-# README goes here.... 
-as;ldkfjas;ldfkj:wq
-
-changeddddddd
+# README 
+this file contains basic information about this project. 
